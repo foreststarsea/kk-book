@@ -1,0 +1,23 @@
+{
+  "name": "abc-book",
+  "version": "1.0.0",
+  "description": "GitBook demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/abc-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangding/abc-book/issues"
+  },
+  "homepage": "https://github.com/wangding/abc-book#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
