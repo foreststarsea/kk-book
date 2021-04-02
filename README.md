@@ -1,3 +1,0 @@
-# abc-book
-
-GitBook demo
